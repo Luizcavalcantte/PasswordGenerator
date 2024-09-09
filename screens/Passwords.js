@@ -25,7 +25,7 @@ export default function Passwords() {
 
   async function hanldeDeletePassword(item) {
     Alert.alert(
-      "Excluiir",
+      "Excluir",
       "Você tem certeza de que deseja excluir esta senha?",
       [
         {
